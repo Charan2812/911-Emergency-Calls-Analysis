@@ -65,8 +65,6 @@ The dataset used in this project is downloaded from **Kaggle**:
 
 ## Screenshots  
 (Add the images in your repository under a folder like `screenshots/` and update the links below.)
-
-### Example:
 ![Countplot Example](screenshots/countplot_reason.png)
 ![Heatmap Example](screenshots/heatmap_day_hour.png)
 ![Line Chart](screenshots/daily_trend.png)
