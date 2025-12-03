@@ -9,8 +9,6 @@ This project performs an in-depth exploratory data analysis (EDA) on the **Montg
 The analysis uncovers useful insights such as the busiest townships, most common emergency reasons, call frequencies by time, and daily/weekly/monthly patterns.  
 Visualizations are generated using Matplotlib and Seaborn to clearly represent emergency trends and help improve public safety decision-making.
 
----
-
 ## Tech Stack  
 - **Python 3.x**  
 - **Pandas** – Data cleaning & manipulation  
@@ -19,15 +17,11 @@ Visualizations are generated using Matplotlib and Seaborn to clearly represent e
 - **Seaborn** – Advanced visualizations  
 - **Jupyter Notebook** – Code execution & analysis environment  
 
----
-
 ## Data Source  
 The dataset used in this project is downloaded from **Kaggle**:  
 - **Dataset Name:** 911 Calls – Montgomery County, PA  
 - **File Used:** `Emergency_Calls.csv`  
-- Contains latitude, longitude, description, timestamps, township details, and emergency titles.
-
----
+- Contains latitude, longitude, description, timestamps, township details, and emergency title
 
 ## Features / Highlights  
 
@@ -60,11 +54,7 @@ The dataset used in this project is downloaded from **Kaggle**:
 ### **6. Insights for Emergency Services**
 - Helps identify busy hours and days.  
 - Supports planning, staffing, and resource allocation for emergency departments.
-
----
-
 ## Screenshots  
-(Add the images in your repository under a folder like `screenshots/` and update the links below.)
 ![Countplot](screenshots/https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/countplot_reason.png)
 ![Heatmap](screenshots/https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/heatmap_day_hour.png)
 ![Line Chart](screenshots/https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/daily_trends_traffic_Ems_fire.png)
