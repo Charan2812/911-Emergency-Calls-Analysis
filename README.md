@@ -54,7 +54,7 @@ The dataset used in this project is downloaded from **Kaggle**:
 ### 6.Insights for Emergency Services
 - Helps identify busy hours and days.  
 - Supports planning, staffing, and resource allocation for emergency departments.
-## Screenshots  
+# Screenshots
 ![Countplot](https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/countplot_reason.png)
 ![Heatmap](https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/heatmap_day_hour.png)
 ![Line Chart](https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/daily_trends_traffic_Ems_fire.png)
