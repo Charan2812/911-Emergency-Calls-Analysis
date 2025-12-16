@@ -59,8 +59,8 @@ The dataset used in this project is downloaded from **Kaggle**:
 ![Countplot](https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/countplot_reason.png)
 ## Heatmap
 ![Heatmap](https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/heatmap_day_hour.png)
-## Line Chart
-![Line Chart](https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/daily_trends_traffic_Ems_fire.png)
+## Dialy_Trend_Line_Chart for Traffic,EMS,Fire
+![Line_Chart](https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/daily_trends_traffic_Ems_fire.png)
 ## Countplot Day_Reason
 ![Countplot Day_Reason](https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/day_reason_countplot.png)
 ## Countplot Month_Reason
