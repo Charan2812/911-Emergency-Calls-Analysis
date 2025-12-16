@@ -55,9 +55,14 @@ The dataset used in this project is downloaded from **Kaggle**:
 - Helps identify busy hours and days.  
 - Supports planning, staffing, and resource allocation for emergency departments.
 # Screenshots
+## Countplot
 ![Countplot](https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/countplot_reason.png)
+## Heatmap
 ![Heatmap](https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/heatmap_day_hour.png)
+## Line Chart
 ![Line Chart](https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/daily_trends_traffic_Ems_fire.png)
+## Countplot Day_Reason
 ![Countplot Day_Reason](https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/day_reason_countplot.png)
+## Countplot Day_Reason
 ![Countplot Month_reason](https://github.com/Charan2812/911-Emergency-Calls-Analysis/blob/main/month_reason_countplot.png)
 
